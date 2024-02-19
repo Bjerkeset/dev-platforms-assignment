@@ -1,5 +1,3 @@
-// blog-posts.controller.ts
-
 import {
   Controller,
   Get,

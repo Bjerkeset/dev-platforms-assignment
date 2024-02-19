@@ -1,5 +1,3 @@
-// blog-posts.service.ts
-
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../prisma.service';
 import { CreateBlogPostDto, UpdateBlogPostDto } from './blog.dto';
